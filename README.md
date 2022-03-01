@@ -48,6 +48,6 @@ The result suitable for plotting in a spreadsheet is in three files:
 The RDF.in file contains options for building RDF:
 
     atoms_in_mol 6 - the number of atoms in a molecule.
-    group_1 0      - list of the first group of equivalent atoms. In this case, it is the nitrogen atom in acetonitoil.
+    group_1 0      - list of the first group of equivalent atoms. In this case, it is the nitrogen atom in acetonitrile.
     group_2 0      - list of the second group of equivalent atoms. In this case, it is the same atom.
     period  1      - in this case, all the trajectory points are used to construct the RDF. 
